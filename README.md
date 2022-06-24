@@ -15,13 +15,14 @@
 (dB reference value: 1 $\mu m/s$)
 
 
-## Installation instruction
+## Installation instruction (Linux)
 Clone this repo, then run:
 
     cd rsudp
     bash unix-install-rsudp.sh
 
 The script should take care of the installation automatically. In case you encounter any errors, try to manually [install miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html) before re-running the script. 
+
 
 ## How to start the program
 
