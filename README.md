@@ -4,6 +4,7 @@
 - Added new alarm modules (c_alarm_leq.py and c_alarm_leq_iir.py) which trigger alarms based on short-term vs long-term Leq calculation
 - Coded and tested only for RS1D / 1 channel geophone
 - Differences with upstream: [GithubCompare](https://github.com/raspishake/rsudp/compare/master...rodonile:master)
+- Minimal installation for Windows OS (with fewer modules and dependencies) available on the *windows* branch.
 
 ## Use-cases:
 
