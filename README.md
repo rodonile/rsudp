@@ -1,4 +1,7 @@
 # The Windows branch
+
+:warning: This branch is outdated, moved to [rsudp-leq](https://github.com/rodonile/rsudp-leq). :warning:
+
 This is a minimal version of rsudp with only the relevant modules and dependencies for the use case of small ground vibration disturbance detection, ready for production deployment in windows OS.
 
 ## Table of Contents  
